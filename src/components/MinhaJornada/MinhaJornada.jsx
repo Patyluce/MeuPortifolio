@@ -9,7 +9,8 @@ const MinhaJornada = () => {
     { year: "2022.2", icon: "🚀", text: "Por destino também, surgiu uma vaga no Embarque Digital. Me matriculei em Sistemas para Internet na UNICAP, largando Letras, e entrei para o ramo que trouxe expectativas para o futuro." },
     { year: "2023", icon: "👩‍💻", text: "Entrei no meu primeiro estágio pela Prefeitura do Recife, desenvolvendo habilidades técnicas, comunicação e resiliência. Uma experiência inesquecível." },
     { year: "2024", icon: "📊", text: "Enfrentei dificuldades no curso, mas comecei a desenvolver APIs em projetos internos e externos. Aqui descobri minha paixão: análise de dados." },
-    { year: "2025", icon: "🏫", text: "Hoje sou instrutora pleno na Rede Senac Pernambuco. Continuo sonhando e estudando sem parar." },
+    { year: "2025", icon: "🏫", text: "Entre 2025-2026 fui instrutora pleno na Rede Senac Pernambuco. Construi pontes e amizades." },
+    { year: "2026", icon: "💾", text: "Hoje sou dev. em COBOL Mainframe pela Spread Tecnologia. Continuando a sonhar e estudar sem parar." },
   ];
 
   return (
