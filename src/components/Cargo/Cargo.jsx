@@ -24,7 +24,7 @@ const Cargo = () => {
             <p><GraduationCap size={18} /> <strong>Curso:</strong> Pós-graduação em Deep Learning </p>
             <p><School size={18} /> <strong>Instituição:</strong> CIn UFPE - EAD</p>
             <br />
-            <h2 className="titulo">Formação Atual</h2>
+            <h2 className="titulo">Formação Concluída</h2>
             <p><GraduationCap size={18} /> <strong>Curso:</strong>Sistemas para Internet</p>
             <p><School size={18} /> <strong>Instituição:</strong> Universidade Católica em Pernambuco- UNICAP</p>
           </div>
