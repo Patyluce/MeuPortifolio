@@ -15,8 +15,8 @@ const Cargo = () => {
 
           <div className="info-bloco">
             <h2 className="titulo">Cargo Atual</h2>
-            <p><Briefcase size={18} /> <strong>Cargo:</strong> Instrutora Pleno</p>
-            <p><MapPin size={18} /> <strong>Local:</strong> Senac Pernambuco</p>
+            <p><Briefcase size={18} /> <strong>Cargo:</strong> Desenvolvedora em COBOL Mainframe Jr</p>
+            <p><MapPin size={18} /> <strong>Local:</strong> Spread Tecnologia</p>
           </div>
 
           <div className="info-bloco">
